@@ -32,3 +32,5 @@ Then the frontend will start to run.
 # What you have to now.
 1. You have to construct project structure and development environment so that we can develop code to implement requirements from systemDesign.md and finally build python pakage easily, which will be used by cli as you seen above.
 2. Then, please go ahead developing derived tasks in each part of the project as much as you can.
+# Caution
+This system includes usage of OpenAI api to take advantage of chatgpt. Here, I strongly want to develop the part of using AI at last. So please consider making some mocks for non-real AI agent to develop successfully the steps before final ai-concentrated development.
