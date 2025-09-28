@@ -9,21 +9,16 @@ Socrates is an advanced AI-powered interview assistance system designed to enhan
 The platform employs a distributed architecture optimized for dual-computer interview scenarios:
 
 ### Primary Computer (Interview Station)
-- **Backend Services**: Hosts the core AI processing engine and interview management system
-- **Video Conferencing**: Manages the primary interview communication channel
-- **Real-time Processing**: Handles question analysis and response generation
+- **Backend Services**: Hosts the core AI processing engine and speech recording management system
 
 ### Secondary Computer (Support Station)  
 - **Frontend Interface**: Provides the user interface for monitoring and interaction
-- **Remote Monitoring**: Connects to the primary system via remote management protocols
 - **Response Display**: Shows AI-generated answers in real-time for candidate reference
 
 ## Key Features
 
-- **Real-time Question Analysis**: Advanced natural language processing to understand interviewer questions
+- **Real-time speaker sound Analysis**: Advanced transcripting to understand interviewer questions
 - **Intelligent Response Generation**: Leverages state-of-the-art AI models to provide accurate, contextual answers
-- **Seamless Integration**: Compatible with major video conferencing platforms
-- **Remote Management Support**: Works with popular remote desktop solutions (AnyDesk, TightVNC, etc.)
 - **Low-latency Performance**: Optimized for real-time interview scenarios
 
 ## Technology Stack
@@ -48,7 +43,6 @@ The platform employs a distributed architecture optimized for dual-computer inte
 ## System Requirements
 
 - Two computers with stable internet connectivity
-- Compatible remote management software
 - Minimum system specifications for AI processing
 
 ## Disclaimer
