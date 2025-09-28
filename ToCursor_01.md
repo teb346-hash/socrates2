@@ -30,6 +30,7 @@ socrates -f [backend_ip_address] [backend_port] [password]
 Then the frontend will start to run.
 
 # What you have to now.
+First of all, make a folder named "socrates" and you should play inside there.
 1. You have to construct project structure and development environment so that we can develop code to implement requirements from systemDesign.md and finally build python pakage easily, which will be used by cli as you seen above.
 2. Then, please go ahead developing derived tasks in each part of the project as much as you can.
 # Caution
